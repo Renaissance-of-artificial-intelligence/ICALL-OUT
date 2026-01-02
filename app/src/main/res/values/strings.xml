@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ICall Phone</string>
+    <string name="hint_phone_number">Enter phone number</string>
+    <string name="action_call">Call</string>
+    <string name="error_permission_denied">Permission denied to make calls</string>
+    <string name="error_empty_number">Please enter a number</string>
+</resources>
+
